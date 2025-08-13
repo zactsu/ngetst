@@ -3,8 +3,8 @@
 'use strict';
 
 // --- PENGATURAN - GANTI DENGAN DATA ANDA ---
-const BOT_TOKEN = '8263122190:AAHFGPbqh6b9reGaXz-Npe3Dm-hEe1GIMSM'; // <-- Masukkan Token Bot Anda di sini
-const CHAT_ID = '8398374896';   // <-- Masukkan Chat ID Anda/Grup di sini
+const BOT_TOKEN = ''; // <-- Masukkan Token Bot Anda di sini
+const CHAT_ID = '';   // <-- Masukkan Chat ID Anda/Grup di sini
 const MESSAGE = '✅ Script Node.js masih menyala'; // Pesan yang ingin dikirim
 const INTERVAL = 2 * 60 * 1000; // Interval dalam milidetik (2 menit)
 
